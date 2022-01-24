@@ -1,15 +1,12 @@
 # Seaborn
 
-This program accesses Yahoo Finance's API via RapidAPI.com and relays to the Jupiter Group Discord server vital information about the markets.
+Designed to relay information about company's earnings reports to a Discord server.
 
-As of right now, Seaborn is designed to disclose to traders upcoming Earnings Releases and recap the Earnings Releases that it posted the prior day.
+You can see we made use of the NetDv8tion API (provided by Discord) to communicate with the 
+Discord chat, and we are using Yahoo Finance API data to get earnings reports and company information.
 
-In the future, Seaborn will monitor stock price data to identify trends, similar to the Algorithm Trading Bots that can be found in my GitHub. 
+This app is outdated, but is still a nice early attempt at making stock market data technology.
 
-Seaborn will also involve more catalysts and news articles as development progresses.
-
-
-Make sure you check out the screenshots of Seaborn in action!!
 
 ![](screenshot_1.png)
 ![](screenshot_2.png)
