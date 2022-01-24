@@ -9,7 +9,7 @@ ____
 
 This app is outdated, but is still a nice early attempt at making stock market data technology.
 
-**Check out some of my newer projects to see how far I've taken stock market software ideas.**
+**Check out some of my newer projects to see how I've built on projects like this one.**
 ____
 
 ![](screenshot_1.png)
