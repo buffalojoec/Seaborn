@@ -7,7 +7,7 @@ Discord chat, and we are using Yahoo Finance API data to get earnings reports an
 
 ____
 
-This app is outdated, but is still a nice early attempt at making stock market data technology.
+This is an old project, but it's still a useful early attempt at stock market data technology.
 
 **Check out some of my newer projects to see how I've built on projects like this one.**
 ____
