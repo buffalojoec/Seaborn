@@ -73,7 +73,7 @@ public class HandleEventArchive extends ListenerAdapter {
 
         String messageEarnings = "Here are " + timeframe + "'s earnings releases: \r\n.\r\n.";
         String messageEarningsDescription = "I've listed each security with it's relative volume for your reference. \r\n.\r\n.";
-        String messageSpecial = ".\r\n.\r\n ** NEW FEATURES COMING mother fuckers **";
+        String messageSpecial = ".\r\n.\r\n ** NEW FEATURES COMING **";
         String messageClosing = ".\r\n.\r\n Good luck out there.";
 
         //String messageFull = messageGreeting+messageEarnings+messageDescription+earningsList;
